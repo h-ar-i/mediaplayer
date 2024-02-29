@@ -1,0 +1,1 @@
+export const SERVER_URL="https://mp-server-s310.onrender.com"
